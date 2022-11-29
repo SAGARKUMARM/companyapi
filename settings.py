@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-5ufwtem@%!7hubt#=x98a9-elo2(-za6qylys25ee(1z_zgn9a
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'apitool.herokuapp.com'
+    'compapi.herokuapp.com'
 ]
 
 
